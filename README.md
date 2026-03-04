@@ -19,3 +19,7 @@ https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019?sel
  ![Iowas Offensive Stats](iowa_clarified_stats.png)
 ### A team like Iowa is impressive when we compare them to a team like Nebraska. Nebraska had a good defense and better offensive statistics every year. But Iowas "steel curtain' of a defense was so elite they won over double the amount of games as Nebraska in the last three years. You'd think Nebraska being good not great in a every category would win more games than a team like Iowa that is terrible in one and elite in another.  
 ![](nebraska_vs_iowa_comparison.png)
+### Now lets take a look at what happens when you put it all together. Georgiaa won the national title game in 2022. Went undefeated and had an Elite Offense and Elite defense in the toughest conference (the SEC). They were top ten in both statistics and had a win perccentage of 100%
+![](georgia_performance_plot.png)
+### Since I know we have a Kentucky 'coach' in attendance I'll share what Kentucky can improve on. Kentucky was the definition of average. Offense and defense were ok but not great with them around the middle of the pack.They seem to be winning an above average amount of games but can just never really make it over the hump.
+![](kentucky_3yr_average_performance.png)
