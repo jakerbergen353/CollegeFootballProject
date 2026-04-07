@@ -1,5 +1,6 @@
 pandas
 joblib
-streaamlit
+streamlit
 scikit-learn
 matplotlib
+PIL
